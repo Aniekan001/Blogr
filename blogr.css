@@ -231,7 +231,7 @@ header>div>button:hover{
     justify-content: space-between5;
     padding-left: 7%;
     padding-right: 7%;
-    height: 35%;
+    height: 32%;
 }
 .fourthdiv{
     width: 45%;
@@ -943,7 +943,7 @@ footer p{
     }
     #thirdsection{
         margin-bottom: 4%;
-        background-size: 67% 35%;
+        background-size: 54% 35%;
         background-position: 50% 9%;
         margin-bottom: 20%;
     }
@@ -1080,7 +1080,7 @@ footer p{
         margin: auto;
     }
     #thirdsection{
-        background-size: 75% 35%;
+        background-size: 67% 35%;
         background-position: 53% 4%;
     }
 }
@@ -1104,7 +1104,7 @@ footer p{
         background-size: 120% 120%;
     }
     #thirdsection{
-        background-size: 75% 30%;
+        background-size: 65% 30%;
         background-position: 53% 4%;
     }
     header>div{
@@ -1139,7 +1139,7 @@ footer p{
         background-size: 120% 110%;
     }
     #thirdsection{
-        background-size: 80% 28%;
+        background-size: 70% 28%;
         background-position: 53% 3%;
     }
     .fifthdiv{
