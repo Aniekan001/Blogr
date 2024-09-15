@@ -231,7 +231,7 @@ header>div>button:hover{
     justify-content: space-between5;
     padding-left: 7%;
     padding-right: 7%;
-    height: 32%;
+    height: 28%;
 }
 .fourthdiv{
     width: 45%;
@@ -335,6 +335,9 @@ footer p{
         width: 70%;
         padding-right: 0;
     }
+    #thirdsection p{  
+        font-size: 12px;
+    }
 }
 @media (max-width: 1090px ) {
     header>p{
@@ -346,6 +349,9 @@ footer p{
     }
     header>div>button{
         font-size: 10px;
+    }
+    #thirdsection p{  
+        font-size: 12px;
     }
 }
 @media (max-width: 990px ) {
@@ -366,6 +372,9 @@ footer p{
     }
     .secondsection p{
         font-size: 15px;
+    }
+    #thirdsection p{  
+        font-size: 12px;
     }
    
 }
@@ -507,6 +516,9 @@ footer p{
     .secondsection p{
         font-size: 12px;
     }
+    #thirdsection p{  
+        font-size: 11px;
+    }
  
 }
 @media (max-width: 610px ) {
@@ -605,7 +617,9 @@ footer p{
     h1{
         width: 70%;
     }
-
+    #thirdsection p{  
+        font-size: 10px;
+    }
 }
 @media (max-width: 499px) {
     .firstdiv>img{
