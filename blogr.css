@@ -461,9 +461,7 @@ footer p{
     header>p{
         width: 48%;
     }
-    .secondsection{
-        height: 21dvh;
-    }
+    
     footer img{
         width: 80%;
     }
@@ -597,9 +595,7 @@ footer p{
     .secondsection h3{
         font-size: 18px;
     }
-    .secondsection{
-        height: 18dvh;
-    }
+    
     .seconddiv button{
         height: 24px;
     }
@@ -916,7 +912,7 @@ footer p{
         flex-direction: column;
         padding-left: 0;
         padding-right: 0;
-        height: 59dvh;
+ 
     }
     .fourthdiv{
         width: 70%;
@@ -1147,7 +1143,7 @@ footer p{
         background-position: 53% 3%;
     }
     .fifthdiv{
-        height: 60dvh;
+     
         padding-bottom: 0;
     }
     .secondsection{
