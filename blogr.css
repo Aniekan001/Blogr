@@ -231,7 +231,7 @@ header>div>button:hover{
     justify-content: space-between5;
     padding-left: 7%;
     padding-right: 7%;
-    height: 37dvh;
+    height: 33dvh;
 }
 .fourthdiv{
     width: 45%;
@@ -265,6 +265,9 @@ header>div>button:hover{
     width: 55%;
     padding-bottom: 8%;
     padding-left: 45%;
+}
+#thirdsection p{
+    font-size: 13px;
 }
 footer{
     background-color: black;
